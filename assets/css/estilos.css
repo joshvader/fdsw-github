@@ -33,7 +33,16 @@ body {
   }
 
   .navbar-brand{
-    width: 100px;
+    width: 70px;
   }
 
 }
+img{
+  width:50px;
+}
+
+.fixed-top{
+  height: 70px;
+}
+
+
